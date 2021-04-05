@@ -1,0 +1,5 @@
+print("Hi ı am a chatbox. Please state your name.")
+name = input()
+print("Than you "+name+", How can I help you?")
+account_balance = input()
+print("Searching for\" "+ account_balance + "\"...")
